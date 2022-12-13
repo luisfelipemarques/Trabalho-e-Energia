@@ -541,3 +541,53 @@ c) aumentou – permaneceu nula – diminuiu;
 d) aumentou – aumentou – permaneceu nula;
 
 e)aumentou – diminuiu – permaneceu nula.
+
+12) Com os conhecimentos de grandezas dinâmicas e a aplicação do teorema trabalho-energia, é possível resolver muitos problemas do dia a dia. Considere um veículo de massa igual a 1,5ton que se move a uma velocidade de 93,6km/h, ao longo de uma estrada plana horizontal, quando seus freios são acionados. Se o veículo chegou ao repouso, após percorrer uma distância igual a 84,5m, com aceleração constante, então o coeficiente de atrito entre os pneus do veículo e a estrada é igual a:
+
+a) 0,40;
+
+b) 0,35;
+
+c) 0,30;
+
+d)0,25;
+
+e) 0,20.
+
+13) Segundo pesquisas, na história do planeta Terra, houve cinco grandes eventos cujos impactos sobre a biodiversidade foram tão devastadores que acarretaram extinções em massa, como a dos dinossauros. Suponha que um desses episódios foi causado por um impacto com um asteroide de 15km de diâmetro, o que deixou em nosso planeta uma cratera de 200km de diâmetro. Considere que a energia liberada pelo impacto de um asteroide é diretamente proporcional apenas ao cubo do diâmetro da cratera formada. Assinale a expressão que relaciona corretamente a energia liberada E, no fenômeno descrito, com o diâmetro do asteroide, na qual k representa a constante de proporcionalidade.
+
+a) E = k ∙15;
+
+b) E = k ∙ 200;
+
+c) E = k ∙ 3 000;
+
+d) E = k ∙ 3 3750;
+
+e) E = k ∙ 8 000 000.
+
+14) Num teste de esforço físico, um atleta de 60,0kg sobe correndo uma escada cuja diferença de altura entre os degraus mais baixo e mais alto é de 20,0m. A aceleração da gravidade é igual a 10,0m/s². Considere 1 kJ=1000J. Ao final da subida, pode-se afirmar que a energia potencial gravitacional do atleta:
+
+a) aumentou em 12,0 kJ;
+
+b) aumentou em 3,0 kJ;
+
+c) não variou;
+
+d) diminuiu em 12,0 kJ;
+
+e) diminuiu em 3,0 kJ.
+
+15) Embora o significado de qualidade de vida não seja, por vezes, óbvio para algumas pessoas, todos têm uma clara noção do que é isso. Segundo a Organização Mundial da Saúde (OMS), qualidade de vida é a percepção que um indivíduo tem sobre sua posição na vida, no contexto cultural que envolve valores, objetivos, expectativas, padrões e preocupações. Essa definição contempla a influência da saúde física e psicológica, o nível de independência, as relações sociais e as inerentes ao respectivo meio no qual o sujeito está inserido. Assim, qualidade de vida pode ser definida como a satisfação do indivíduo no que diz respeito à sua vida cotidiana.
+Disponível em: <://www.saudebemestar.pt/pt/blogsaude/qualidade-d e-vida/>. Acesso em: 7 ago. 17. (Parcial e adaptado.)
+As questões envolvendo qualidade de vida podem ser controversas, principalmente, no que tange à relação existente entre tecnologia, saúde e comodidade. Há cerca de 10 anos, era necessário sair de casa para fazer compras, o que pressupunha alguma atividade física. Hoje, empresas já investem em drones para a entrega de produtos. A perspectiva é que, em pouco tempo, por exemplo, uma pessoa que more no 20º andar de um prédio possa receber uma encomenda pela janela.  Assumindo que uma caixa com pizza mais refrigerante de 2,0 L apresentem, respectivamente, massas de 1,0 kg e 2,2 kg e, considerando que a aceleração da gravidade, nesse cenário, seja igual a 10 m/s2 , pode-se concluir que esse drone, que possui massa de 1,5 kg:
+
+a) deve ser programado para compensar a variação da aceleração da gravidade, que diminui 2 m/s2 a cada 100 m de altitude;
+
+b) conseguirá subir se, sobre si, gerar força resultante superior a 47 N na direção vertical, de baixo para cima;
+
+c) necessita que, sobre ele, seja aplicado um empuxo permanente igual a 3,2 N para chegar no referido andar;
+
+d) provoca uma diminuição de sua energia potencial gravitacional quando se desloca do chão para o 20º andar;
+
+e) deve gerar sobre si um trabalho de 1,5 watt para permitir que ele suba com energia cinética constante.
