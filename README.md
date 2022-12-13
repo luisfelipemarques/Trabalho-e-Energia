@@ -579,8 +579,12 @@ d) diminuiu em 12,0 kJ;
 e) diminuiu em 3,0 kJ.
 
 15) Embora o significado de qualidade de vida não seja, por vezes, óbvio para algumas pessoas, todos têm uma clara noção do que é isso. Segundo a Organização Mundial da Saúde (OMS), qualidade de vida é a percepção que um indivíduo tem sobre sua posição na vida, no contexto cultural que envolve valores, objetivos, expectativas, padrões e preocupações. Essa definição contempla a influência da saúde física e psicológica, o nível de independência, as relações sociais e as inerentes ao respectivo meio no qual o sujeito está inserido. Assim, qualidade de vida pode ser definida como a satisfação do indivíduo no que diz respeito à sua vida cotidiana.
+
+
 Disponível em: <://www.saudebemestar.pt/pt/blogsaude/qualidade-d e-vida/>. Acesso em: 7 ago. 17. (Parcial e adaptado.)
-As questões envolvendo qualidade de vida podem ser controversas, principalmente, no que tange à relação existente entre tecnologia, saúde e comodidade. Há cerca de 10 anos, era necessário sair de casa para fazer compras, o que pressupunha alguma atividade física. Hoje, empresas já investem em drones para a entrega de produtos. A perspectiva é que, em pouco tempo, por exemplo, uma pessoa que more no 20º andar de um prédio possa receber uma encomenda pela janela.  Assumindo que uma caixa com pizza mais refrigerante de 2,0 L apresentem, respectivamente, massas de 1,0 kg e 2,2 kg e, considerando que a aceleração da gravidade, nesse cenário, seja igual a 10 m/s2 , pode-se concluir que esse drone, que possui massa de 1,5 kg:
+
+
+As questões envolvendo qualidade de vida podem ser controversas, principalmente, no que tange à relação existente entre tecnologia, saúde e comodidade. Há cerca de 10 anos, era necessário sair de casa para fazer compras, o que pressupunha alguma atividade física. Hoje, empresas já investem em drones para a entrega de produtos. A perspectiva é que, em pouco tempo, por exemplo, uma pessoa que more no 20º andar de um prédio possa receber uma encomenda pela janela.  Assumindo que uma caixa com pizza mais refrigerante de 2,0 L apresentem, respectivamente, massas de 1,0 kg e 2,2 kg e, considerando que a aceleração da gravidade, nesse cenário, seja igual a 10 m/s^2 , pode-se concluir que esse drone, que possui massa de 1,5 kg:
 
 a) deve ser programado para compensar a variação da aceleração da gravidade, que diminui 2 m/s2 a cada 100 m de altitude;
 
