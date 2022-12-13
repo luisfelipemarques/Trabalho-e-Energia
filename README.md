@@ -6,12 +6,15 @@ Aqui neste repositório, iremos falar sobre o conceito físico de Trabalho e Ene
 Agora que você já conhece bastante sobre a ideia de força e seus conceitos, vamos aprender outra propriedade: o trabalho de uma força. Antes de mais nada devemos esclarecer uma ideia bastante comum no nosso cotidiano, que é a de que nós que realizamos trabalho, quando fazemos alguma tarefa que demanda esforço físico.
 Na realidade, o termo trabalho, que empregamos às pessoas, é uma propriedade não da matéria, mas de uma força realizada pela matéria. Lembra que, quando interagimos com um corpo estamos aplicando uma força sobre ele? Vamos supor que um repositor de um mercado levanta uma caixa que está no chão. Temos aí a matéria (o repositor) e a força (que o repositor exerce sobre a caixa, resultado da sua interação com ela), sendo comum dizermos que o repositor está tendo tendo o trabalho de levantar a caixa. Que fique claro desde já que quem realiza trabalho não é o repositor e sim a força que ele exerce!
 
-![img1](https://user-images.githubusercontent.com/60315713/207433074-fef40997-d1bc-4047-a85b-54afbcc5811c.jpg)
-
+![Captura de tela de 2022-12-13 16-30-23](https://user-images.githubusercontent.com/60315713/207437313-bf1b50ea-f364-45d5-bac2-78975b43c1eb.png)
 
 ## Trabalho de Uma Força Constante
 
-O trabalho de uma força é uma grandeza física escalar associada à intensidade desta força e ao deslocamento que essa força produz num corpo. Então, veja um corpo sujeito a uma força constante F, ao longo de um deslocamento d:
+O trabalho de uma força é uma grandeza física escalar associada à intensidade desta força e ao deslocamento que essa força produz num corpo.
+
+![Captura de tela de 2022-12-13 16-17-58](https://user-images.githubusercontent.com/60315713/207435910-64bbf3dc-90b6-4434-9103-25ce5bda0007.png)
+
+Então, veja um corpo sujeito a uma força constante F, ao longo de um deslocamento d:
 
 $$\tau = F_xd$$
 
@@ -37,7 +40,11 @@ $$\tau = 5.10.0,5$$
 
 $$\tau = 25 J$$
 
-2. Uma força 30N é aplicada em um corpo conforme figura abaixo ao longo de uma trajetória retilínea de 8m. Calcular o trabalho realizado pela força ao longo do deslocamento.
+2. Uma força 30N é aplicada em um corpo conforme figura abaixo ao longo de uma trajetória retilínea de 8m.
+
+![Captura de tela de 2022-12-13 16-18-21](https://user-images.githubusercontent.com/60315713/207435995-651614d8-2f13-4786-87ac-cd3a5819e2f2.png)
+
+Calcular o trabalho realizado pela força ao longo do deslocamento.
 
 Solução:
 
@@ -55,9 +62,13 @@ $$\tau = 240 J$$
 
 Ou seja, em forças paralelas ao deslocamento, o trabalho é simplesmente o produto entre a intensidade da força pelo deslocamento.
 
-3. Uma dona de casa deseja trocar seu sofá de lugar e para isto quer realizar trabalho de 60J sabendo que, de um ponto para o outro, o deslocamento é 4m. Como o sofá é menor que ela, a inclinação da força exercida por ela no sofá é de 60º. Dadas essas condições, determine o módulo da força necessária no caso.
+3. Uma dona de casa deseja trocar seu sofá de lugar e para isto quer realizar trabalho de 60J sabendo que, de um ponto para o outro, o deslocamento é 4m. Como o sofá é menor que ela, a inclinação da força exercida por ela no sofá é de 60º.
 
-Solução:Este é um {c:red}texto vermelho.{/c}
+![Captura de tela de 2022-12-13 16-18-36](https://user-images.githubusercontent.com/60315713/207436078-c11958a6-2b51-4a11-b142-67947fae02c2.png)
+
+Dadas essas condições, determine o módulo da força necessária no caso.
+
+Solução:
 
 Pela definição de trabalho:
 
@@ -108,6 +119,9 @@ $$\tau = 8,75 J$$
 ## Trabalho de Uma Força Qualquer
 
 Nem sempre a força aplicada sobre um corpo tem o mesmo módulo em todo o seu deslocamento e, na realidade, isso é bem difícil de acontecer na natureza. A ideia agora é estudar as variações nas intensidades de forças aplicadas, o que consequentemente implica em forças como funções do tempo, enxergar os gráficos e, a partir deles, determinar o trabalho da força entre as posições $x_0$ e $x$.
+
+![Captura de tela de 2022-12-13 16-18-47](https://user-images.githubusercontent.com/60315713/207436173-d7d82869-884e-4bc9-b28d-e37835630142.png)
+
 Seja F a função que modela a variação da força aplicada sobre um corpo ao longo de uma trajetória d, entre as posições $x_0$ e $x$.
 
 O trabalho realizado por essa força ao longo do deslocamento é dado pela área definida no gráfico. Logo:
@@ -118,9 +132,14 @@ $$\tau_F = A_{grafico}$$
 
 1. Determine o trabalho realizado pela força através do gráfico abaixo:
 
+![Captura de tela de 2022-12-13 16-19-03](https://user-images.githubusercontent.com/60315713/207436552-6215da92-e5c1-4389-80d6-ff1be5d94c38.png)
+
 Solução:
 	
   Como a área definida pelo gráfico é um trapézio:
+  
+  ![Captura de tela de 2022-12-13 16-19-13](https://user-images.githubusercontent.com/60315713/207436565-1854c2db-e654-4dbf-b4c2-a732ac64bb7e.png)
+
 
 $$\tau = A_{trapezio} = \dfrac{(B+b)h}{2} = \dfrac{(6+3)4}{2} = \dfrac{36}{2} = 18 J$$
 
@@ -139,19 +158,26 @@ Quando $x=3$, vem $f(3)=3+2=5N$;
 Quando $x=44, vem $f(4)=4+2=6N$;
 Quando $x=5$, vem $f(5)=5+2=7N$.
 
+![Captura de tela de 2022-12-13 16-19-23](https://user-images.githubusercontent.com/60315713/207436632-6fb5204a-8bad-4bbd-9380-8cfc4dd3f1ca.png)
+
 b) O trabalho realizado só entre 3 e 5 metros é a área compreendida entre:
 
-TEM UM GRAFICO AKIR
+![Captura de tela de 2022-12-13 16-19-32](https://user-images.githubusercontent.com/60315713/207436679-e474ace9-0a7f-420c-b243-e395e8b99f39.png)
 
 Novamente, a área fornecida é um trapézio, daí:
+
+![Captura de tela de 2022-12-13 16-19-44](https://user-images.githubusercontent.com/60315713/207436739-8b393cf6-2b13-4931-b1e8-eecc30afbbe0.png)
 
 $$\tau_F = \dfrac{(5+7)2}{2} = 12 J$$
 
 ## Trabalho da Força Peso
 
-Um caso muito notável é o trabalho que o peso de um corpo realiza ao longo de seu deslocamento. Primeiro de tudo, vamos pensar num corpo que se move ao longo de um plano horizontal.
+Um caso muito notável é o trabalho que o peso de um corpo realiza ao longo de seu deslocamento.
 
-FIGURA AQUI
+![Captura de tela de 2022-12-13 16-19-53](https://user-images.githubusercontent.com/60315713/207436790-60ef6ce3-f0ea-40c3-85de-cc0caa92242e.png)
+
+
+Primeiro de tudo, vamos pensar num corpo que se move ao longo de um plano horizontal.
 
 Como o ângulo entre o vetor peso e o deslocamento é 90º, pela definição de trabalho:
 
@@ -167,11 +193,15 @@ Ou seja, **forças perpendiculares ao deslocamento não realizam trabalho.**
 
 Agora, imagine uma escada com 5 degraus e bem ao lado dela uma rampa com a mesma altura da escada, porém inclinação muito íngreme. Você recebeu a missão de carregar uma caixa super pesada e está pensando em qual dos meios a força realizará menos trabalho. Vamos pensar no deslocamento da caixa ao longo da escada:
 
-FIGURA AQUI
+![Captura de tela de 2022-12-13 16-20-02](https://user-images.githubusercontent.com/60315713/207436851-eff9463f-db86-4ac8-b0f0-2a766b733e88.png)
+
 
 Note que quando o deslocamento da caixa é pra baixo, o trabalho do peso é Ph. Mas quando você precisar deslocar a caixa para o lado, o trabalho é nulo, já que forças perpendiculares ao deslocamento não realizam trabalho.
 
-OUTRA FIGURA AQUI - DUAS
+
+![Captura de tela de 2022-12-13 16-20-11](https://user-images.githubusercontent.com/60315713/207436874-a4a85682-bdb8-4b69-b9b1-b88dbf5b5415.png)
+
+![Captura de tela de 2022-12-13 16-20-21](https://user-images.githubusercontent.com/60315713/207436890-43fdd2a4-b825-4c52-8254-9d532401ace7.png)
 
 Somando todos os trabalhos:
 
@@ -187,7 +217,7 @@ $$\tau_P = Ph = mgh$$
 
 Agora, pelo deslocamento na rampa super íngreme:
 
-FIGURA AQUI]
+![Captura de tela de 2022-12-13 16-20-29](https://user-images.githubusercontent.com/60315713/207436938-78bc1d5a-e490-4341-a672-e9a4565f1d0e.png)
 
 Como uma das componentes do peso é sempre perpendicular ao deslocamento, só sobra que o trabalho da outra componente:
 
@@ -203,13 +233,18 @@ Em ambas as trajetórias, o trabalho da força peso foi igual a mgh, com isso:
 
 ### Exemplo Resolvido
 
-1. Uma criança joga um tucumã de massa 80g verticalmente para cima, atingindo altura de 3,0m. Determine o trabalho da força peso ao longo de todo o deslocamento, desde o lançamento até a criança pegar o tucumã de volta nas mãos, sem mudar de altura.
+1. Uma criança joga um tucumã de massa 80g verticalmente para cima, atingindo altura de 3,0m.
+
+![Captura de tela de 2022-12-13 16-20-50](https://user-images.githubusercontent.com/60315713/207437012-ff892b25-c187-4c16-b4cc-c0f1138edb5c.png)
+
+Determine o trabalho da força peso ao longo de todo o deslocamento, desde o lançamento até a criança pegar o tucumã de volta nas mãos, sem mudar de altura.
 
 Solução:
 
 Vamos calcular o trabalho que a força peso realiza na subida do lançamento:
 
-FIGURA AKI
+![Captura de tela de 2022-12-13 16-20-50](https://user-images.githubusercontent.com/60315713/207437059-2b1796a4-95cd-4aa7-946e-1bea52eef77a.png)
+
 
 $$\tau_p = mghcos\theta$$
 
@@ -318,7 +353,7 @@ Temos então o ***teorema trabalho-energia cinética***. Esse teorema conta pra 
 
 Vamos imaginar agora que você more numa casa de dois andares. Você saiu pra dar um rolê e no meio do caminho esqueceu as chaves em casa, daí você liga pros seus pais pedindo pra jogarem a chave para você do segundo andar mesmo.
 
-FIGURA AKIR
+![Captura de tela de 2022-12-13 16-21-26](https://user-images.githubusercontent.com/60315713/207437198-084c525d-bf65-48c6-bd84-5545c24309b1.png)
 
 Analisando o trabalho da força peso na chave:
 
