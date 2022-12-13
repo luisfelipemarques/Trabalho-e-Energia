@@ -499,3 +499,45 @@ c) 37500J;
 d) 1500J;
 
 e) 0,6J.
+
+9) Um exercício fisioterápico consiste em levantar uma bola de massa M, inicialmente em repouso, até uma altura H, onde a bola entra novamente em repouso. Ao fazer isso, uma pessoa gasta uma energia E. Considere que sobre a bola agem apenas a sua força peso e a força exercida pela pessoa. Considere também que a energia gasta pela pessoa no exercício corresponde ao trabalho realizado pela força que ela exerce na bola. Se a massa da bola fosse 3M e altura fosse 2H, o gasto energético da pessoa nesse exercício seria de:
+
+a) 6E;
+
+b) (3E)²;
+
+c) (2E)³;
+
+d) 3E/2;
+
+e) 2E/3.
+
+10) Um aluno deseja calcular a energia envolvida no cozimento de um certo alimento. Para isso, verifica que a potência do forno que utilizará é de 1 000 W. Ao colocar o alimento no forno e marcar o tempo (∆t) gasto até o seu cozimento, ele concluiu que 3 minutos eram o bastante. Dessa maneira, a energia (E) necessária para cozinhar o alimento é de:
+Lembre-se que: 
+P =  E/ Δt P = potência (W)
+E = energia (J) e
+Δt = variação de tempo (s)
+
+a) 180 000J;
+
+b) 55 000J;
+
+c) 18 000J;
+
+d) 5 500J;
+
+e) 1 800J.
+
+11) Uma pessoa retira um saco de arroz de uma sacola que está no chão e o deposita no alto de uma prateleira.
+No final desse procedimento, comparado com o momento inicial, para o saco de arroz, a energia mecânica _________________, a energia potencial gravitacional _________________ e a  energia cinética ___________________. 
+As expressões que completam corretamente as lacunas na ordem em que aparecem são:
+
+a) diminuiu – diminuiu – diminuiu;
+
+b) diminuiu – aumentou – aumentou;
+
+c) aumentou – permaneceu nula – diminuiu;
+
+d) aumentou – aumentou – permaneceu nula;
+
+e)aumentou – diminuiu – permaneceu nula.
