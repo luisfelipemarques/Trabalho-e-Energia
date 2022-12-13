@@ -388,11 +388,17 @@ $$E_pg = m_{galáxia} gh = 0,11 . 10 . 5 = 5,5 J$$
 #Lista de Exercícios
 
 1) Para transportar terra adubada retirada da compostagem, um agricultor enche um carrinho de mão e o leva até o local de plantio aplicando uma força horizontal, constante e de intensidade igual a 200 N. Se durante esse transporte, a força resultante aplicada foi capaz de realizar um trabalho de 1 800 J, então, a distância entre o monte de compostagem e o local de plantio foi, em metros, Lembre-se de que o trabalho realizado por uma força, durante a realização de um deslocamento, é o produto da intensidade dessa força pelo deslocamento.
+
 a) 6;
+
 b) 9;
+
 c) 12;
+
 d) 16;
+
 e) 18.
+
 
 2) Um bloco realiza um movimento retilíneo uniforme sobre uma superfície horizontal. Nesse contexto, pode-se afirmar que:
 
@@ -408,22 +414,36 @@ e) o trabalho realizado pela força que empurra o bloco é superior ao trabalho 
 
 
 3) Considere um pneu de 10kg que gira sem deslizar sobre uma estrada horizontal. Despreze as deformações que o pneu possa sofrer, considere que o eixo de rotação se mantém sempre horizontal e que sobre o pneu haja apenas a força de atrito com a estrada (μ=0,1) e a força da gravidade (g=10m/s²) e a normal. Durante um deslocamento de 2m sobre a estrada, o trabalho realizado pela força de atrito é, em J:
+
 a) 20;
+
 b) 2;
+
 c) 200;
+
 d) 0;
+
 e) 10.
+
 
 4) A avaliação da força e da potência é de extrema importância para o desempenho físico dos seres humanos. O conhecimento do nível de força muscular de um indivíduo é essencial para avaliar a capacidade funcional e ocupacional, além de dar subsídio para uma apropriada escolha de exercícios de reabilitação. Com base nos conhecimentos sobre Força, Trabalho e Potência, analise as afirmativas e marque com V as verdadeiras e com F, as falsas.
 
 (    ) O trabalho da força normal sobre um bloco que se desloca com aceleração constante ao longo de um plano inclinado é nulo.
+
 (    ) Quando a força resultante sobre um corpo é constante, é correto afirmar que ele se move com velocidade constante e a aceleração é nula.
+
 (    ) Um pequeno motor elétrico capaz de realizar um trabalho de 5,0kJ em 40s apresenta uma potência média de 0,125kW.
+
 (    ) Uma partícula submetida a uma força resultante que atua perpendicularmente ao seu vetor velocidade realiza um movimento retilíneo uniformemente acelerado.
+
 
 A alternativa que contém a sequência correta, de cima para baixo, é a:
 a) VFVF;
+
 b) VVFF;
+
 c) VFFV;
+
 d) FVFV;
+
 e) FFVV.
