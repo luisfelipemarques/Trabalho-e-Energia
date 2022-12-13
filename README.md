@@ -385,7 +385,7 @@ E agora do celular galáxia:
 
 $$E_pg = m_{galáxia} gh = 0,11 . 10 . 5 = 5,5 J$$
 
-#Lista de Exercícios
+# Lista de Exercícios
 
 1) Para transportar terra adubada retirada da compostagem, um agricultor enche um carrinho de mão e o leva até o local de plantio aplicando uma força horizontal, constante e de intensidade igual a 200 N. Se durante esse transporte, a força resultante aplicada foi capaz de realizar um trabalho de 1 800 J, então, a distância entre o monte de compostagem e o local de plantio foi, em metros, Lembre-se de que o trabalho realizado por uma força, durante a realização de um deslocamento, é o produto da intensidade dessa força pelo deslocamento.
 
@@ -447,3 +447,55 @@ c) VFFV;
 d) FVFV;
 
 e) FFVV.
+
+
+5) Do alto de um penhasco, uma pedra de massa 200g é solta a partir do repouso, demorando 6s para atingir o solo. Desprezando qualquer influência do ar e considerando g=10m/s², o trabalho realizado pelo peso da pedra em sua queda livre foi de:
+
+a) 60J;
+
+b) 90J;
+
+c) 120J;
+
+d) 180J;
+
+e) 360J.
+
+
+6) Um operário de uma loja de automóveis quer colocar um carro de 1200 kg para cima de um caminhão para transportar para outra cidade. Ele vai usar um guindaste para fazer esse trabalho. Esse guindaste exerce uma força de 27.000N sobre o carro. Considere que esse valor é intenso o suficiente para suplantar a força gravitacional e manter o carro em movimento para cima ao longo de uma distância de 3,0 m. Dessa forma, pode-se afirmar que o trabalho realizado sobre o carro pelo guindaste é de:
+
+a) 81kJ;
+
+b) 84,3kJ;
+
+c) 67,6kJ;
+
+d) 38 200kJ;
+
+e) NDA.
+
+
+7) Tempos atrás, no centro de Curitiba, pessoas mal intencionadas soltavam do alto de edifícios sacos plásticos contendo água. Após investigação policial, foi constatado que os sacos armazenavam 2kg de água e que a ação ocorria a 45m do solo no 18º andar de um edifício comercial. Solto de uma altura assim um corpo adquire grande energia cinética, pois o trabalho da força peso atua na queda. Considerando g=10m/s², em joules, este trabalho é igual a:
+
+a) 38;
+
+b) 900;
+
+c) 90;
+
+d) 380;
+
+e) NDA.
+
+
+8) Ao aplicarmos uma força sobre um corpo, ele se desloca 50 metros ao obter uma aceleração de 5 m/s2. Sabendo que a massa desse corpo é de 150 quilogramas e que o co-seno do ângulo de incidência da força vale 1 e ainda desprezando-se qualquer força externa ao sistema, qual o trabalho realizado?
+
+a) 15J;
+
+b) 1,66J;
+
+c) 37500J;
+
+d) 1500J;
+
+e) 0,6J.
