@@ -6,6 +6,8 @@ Aqui neste repositório, iremos falar sobre o conceito físico de Trabalho e Ene
 Agora que você já conhece bastante sobre a ideia de força e seus conceitos, vamos aprender outra propriedade: o trabalho de uma força. Antes de mais nada devemos esclarecer uma ideia bastante comum no nosso cotidiano, que é a de que nós que realizamos trabalho, quando fazemos alguma tarefa que demanda esforço físico.
 Na realidade, o termo trabalho, que empregamos às pessoas, é uma propriedade não da matéria, mas de uma força realizada pela matéria. Lembra que, quando interagimos com um corpo estamos aplicando uma força sobre ele? Vamos supor que um repositor de um mercado levanta uma caixa que está no chão. Temos aí a matéria (o repositor) e a força (que o repositor exerce sobre a caixa, resultado da sua interação com ela), sendo comum dizermos que o repositor está tendo tendo o trabalho de levantar a caixa. Que fique claro desde já que quem realiza trabalho não é o repositor e sim a força que ele exerce!
 
+![img1](https://user-images.githubusercontent.com/60315713/207433074-fef40997-d1bc-4047-a85b-54afbcc5811c.jpg)
+
 
 ## Trabalho de Uma Força Constante
 
