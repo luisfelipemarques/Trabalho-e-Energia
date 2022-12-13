@@ -395,11 +395,17 @@ d) 16;
 e) 18.
 
 2) Um bloco realiza um movimento retilíneo uniforme sobre uma superfície horizontal. Nesse contexto, pode-se afirmar que:
+
 a) o trabalho realizado pela força que empurra o bloco é necessariamente nulo;
+
 b) o trabalho realizado pela força de atrito entre o bloco e a superfície é necessariamente nulo;
+
 c) o trabalho realizado pela força peso é necessariamente nulo;
+
 d) o trabalho não nulo realizado pela força normal compensa o trabalho realizado pela força peso;
+
 e) o trabalho realizado pela força que empurra o bloco é superior ao trabalho realizado pela força de atrito, pois caso contrário o bloco pararia.
+
 
 3) Considere um pneu de 10kg que gira sem deslizar sobre uma estrada horizontal. Despreze as deformações que o pneu possa sofrer, considere que o eixo de rotação se mantém sempre horizontal e que sobre o pneu haja apenas a força de atrito com a estrada (μ=0,1) e a força da gravidade (g=10m/s²) e a normal. Durante um deslocamento de 2m sobre a estrada, o trabalho realizado pela força de atrito é, em J:
 a) 20;
